@@ -14,7 +14,7 @@
 ├── config          // 配置文件目录
 ├── deploy          // 部署相关目录
 ├── docs            // 文档目录
-│   └── image       // 图片文档目录
+│   └── images      // 图片文档目录
 ├── internal        // 内部逻辑目录
 │   ├── api
 │   ├── cms_api
